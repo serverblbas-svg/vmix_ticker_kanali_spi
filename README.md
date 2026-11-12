@@ -1,1 +1,0 @@
-# vmix_ticker_kanali_spi
